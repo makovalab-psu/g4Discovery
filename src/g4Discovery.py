@@ -3,6 +3,7 @@ import os
 import pandas as pd
 
 from g4DiscoveryFuncs import *
+from g4HunterFuncs import *
 
 if __name__ == "__main__":
     
