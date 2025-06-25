@@ -1,5 +1,5 @@
 
-# G4 Discovery Pipeline (requires Docker image)
+# G4 Discovery Pipeline (requires Docker)
 
 
 Scripts for annotating/predicting G-Quadruplexes (G4s) in a genome sequence, combining `pqsfinder` and `G4Hunter`.  
