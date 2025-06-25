@@ -1,7 +1,13 @@
 
-# G4 Discovery Pipeline
+# G4 Discovery Pipeline (requires Docker image)
+
 
 Scripts for annotating/predicting G-Quadruplexes (G4s) in a genome sequence, combining `pqsfinder` and `G4Hunter`.  
+
+---
+For a **non-dockerized implementation** (also with [PanSN](https://github.com/pangenome/PanSN-spec) support), visit the stable fork: [g4Discovery.PanSN](https://github.com/saswat-km/g4Discovery.PanSN)
+
+---
 
 ## Table of Contents
 
